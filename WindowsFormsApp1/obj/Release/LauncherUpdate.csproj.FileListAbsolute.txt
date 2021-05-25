@@ -1,0 +1,6 @@
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Launcher_Updater.resources
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\LauncherUpdate.csproj.GenerateResource.cache
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\LauncherUpdate.csproj.CoreCompileInputs.cache
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\LauncherUpdater.exe
+C:\Users\WoolLeg\Documents\MuOnline\Mu-Launcher-Updater\WindowsFormsApp1\obj\Release\LauncherUpdater.pdb
